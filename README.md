@@ -29,4 +29,4 @@ at your own risk but if you don't, I reccomend you not to. THANKS!!
 HERE'S A SCREENSHOT
 
 
-<img width="606" alt="Capture" src="https://github.com/AadityaKandel/BEACH-BUGGY-RACING-TRAINER-13/assets/71229713/bb3e931d-7e8a-4786-95ad-370466fd613f">
+<img width="611" alt="Capture" src="https://github.com/AadityaKandel/BEACH-BUGGY-RACING-TRAINER-13/assets/71229713/b26443ce-8c81-426a-acfd-7e5c234c33a2">
