@@ -27,4 +27,6 @@ It works but it comes to the conclusion of "Trust". If you trust this program, y
 at your own risk but if you don't, I reccomend you not to. THANKS!!
 
 HERE'S A SCREENSHOT
+
+
 <img width="606" alt="Capture" src="https://github.com/AadityaKandel/BEACH-BUGGY-RACING-TRAINER-13/assets/71229713/bb3e931d-7e8a-4786-95ad-370466fd613f">
